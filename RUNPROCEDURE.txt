@@ -1,0 +1,6 @@
+cd "D:\Users\Vidhya R\Desktop\Interview_Analyzer"
+D:
+venv_cpu_whisper\Scripts\activate
+
+python gui.py
+

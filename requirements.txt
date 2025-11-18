@@ -1,0 +1,11 @@
+streamlit
+openai-whisper
+transformers
+torch
+numpy
+pydub
+scikit-learn
+textblob
+openai
+pydub
+SpeechRecognition
